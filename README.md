@@ -2,6 +2,9 @@
 
 This repository contains the analysis code for the research paper "Beta Activity and Neuroimaging Concordance in Subthalamic Nucleus-Deep Brain Stimulation: Implications for Electrode Localization and Clinical Outcomes."
 
+![](./images/portada.png)
+
+
 ## Overview
 
 This project analyzes the relationship between beta oscillatory activity, neuroimaging data, and clinical outcomes in patients with Parkinson's disease who have undergone subthalamic nucleus deep brain stimulation (STN-DBS).
@@ -34,6 +37,8 @@ The code requires Python 3.x and standard scientific computing libraries includi
 - Seaborn
 - Statsmodels
 - Jupyter Notebook
+
+Please see requirements.txt 
 
 
 ## Contact
